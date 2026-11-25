@@ -1,0 +1,1 @@
+(()=>{'use strict';const n=document.querySelector('[data-id="p08-monthly"]');if(!n)return;Object.assign(n.style,{left:'56.5%',top:'23.3%',width:'28.1%',height:'71.1%',borderRadius:'18px',background:'transparent'});})();
